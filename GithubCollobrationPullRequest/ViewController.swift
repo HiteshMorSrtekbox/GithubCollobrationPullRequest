@@ -13,10 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        print("Line 1 ")
+        // modified all three files
+        print("Line 3 ")
+        print("Line 1")
         print("Line 2")
-        print("Line 3")
     }
 
 
